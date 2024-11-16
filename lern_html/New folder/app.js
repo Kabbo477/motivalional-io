@@ -1,0 +1,1 @@
+alert("Can you open the site")
